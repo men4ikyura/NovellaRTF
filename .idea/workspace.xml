@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ee12b7b-1e25-49f5-9377-cc3f214542aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/cache/bytecode-39.rpyb" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/cache/bytecode-39.rpyb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/cache/screens.rpyb" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/cache/screens.rpyb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/cache/shaders.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/cache/shaders.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/auto-1-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/auto-1-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/auto-10-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/auto-10-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/auto-2-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/auto-2-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/auto-3-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/auto-3-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/auto-4-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/auto-4-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/auto-5-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/auto-5-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/auto-6-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/auto-6-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/auto-7-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/auto-7-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/auto-8-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/auto-8-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/auto-9-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/auto-9-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/navigation.json" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/navigation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/saves/persistent" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/saves/persistent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/script.rpy" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/script.rpy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/game/script.rpyc" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/game/script.rpyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Novel/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Novel/log.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Xeb23tsXWsQ0EgrZwUHDUv4IYT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ee12b7b-1e25-49f5-9377-cc3f214542aa" name="Changes" comment="" />
+      <created>1698992281482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698992281482</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
