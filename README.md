@@ -1,5 +1,7 @@
 # Мы команда - Console.Writeline("Hello_RTF").
 
+## --Скачать игру--
+https://github.com/men4ikyura/NovellaRTF/releases/tag/v1.0.0
 ## --Видеопрезентация--
  https://drive.google.com/file/d/1MVRQxjI4cUicdWx3FAhmhw5-wEZAvv87/view?usp=share_link
 
