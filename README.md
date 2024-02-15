@@ -27,3 +27,5 @@ Canban-доска - https://github.com/users/men4ikyura/projects/2
 
 ## --Артефакты Разработчика--
 Репозиторий на GitHub - https://github.com/GlebZinovyev/Novel/commits/main/
+
+Спасибо за игру)
